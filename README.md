@@ -3,7 +3,7 @@
 
 <p><em>I graduated as a full stack developer in <a href="https://4geeks.com/"> 4Geeks Academy</a><img src="https://media.giphy.com/media/ZGesfySTrBOrPd4OxX/giphy.gif" alt="graduation" width="50"></em></p>
  
-[![Linkedin: diego-vargas33](https://img.shields.io/badge/Linkedin-diego--vargas33-blue?style=plastic&logo=linkedin&logoColor=white&colorA=black)](https://www.linkedin.com/in/diego-vargas33/)
+[![Linkedin: diego-r-vargas](https://img.shields.io/badge/Linkedin-diego--r--vargas-blue?style=plastic&logo=linkedin&logoColor=white&colorA=black)](https://www.linkedin.com/in/diego-r-vargas/)
 ### <img src="https://media.giphy.com/media/AcQBDzT3hvA1dZFGG4/giphy.gif" alt="evolution gastly" width="50"> something more about me...
 <br>
 
